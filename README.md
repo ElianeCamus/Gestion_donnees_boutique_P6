@@ -2,7 +2,7 @@
 
 ## Contexte et objectifs
 
-![Logo Bottleneck](P6_Logo_Bottleneck.jpg)  
+![Logo Bottleneck](P6_logo_Bottleneck.jpg)  
 Bottleneck est un marchand de vin prestigieux opérant en France.  
 
 Nicolas, le Responsable vente chez Bottleneck, a du mal à analyser les données et nous remonte que la gestion des stocks est complexe.
