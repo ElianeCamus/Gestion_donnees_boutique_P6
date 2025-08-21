@@ -31,3 +31,9 @@ Notebook Jupyter
 
 ## 
 >Attention ! : Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l'organisme OpenClassrooms.
+
+## Visuels du projet
+![P6_S01](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P6_S01.jpg)  
+![P6_S02](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P6_S02.jpg)  
+![P6_S03](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P6_S03.jpg)  
+![P6_S04](https://github.com/ElianeCamus/elianecamus.github.io/blob/main/assets/img/P6_S04.jpg)  
